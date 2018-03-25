@@ -8,7 +8,7 @@ end
 
 # code your input_to_index and move method here!
 def input_to_index(player_inp)
-
+  return player_inp-1
 end
 
 def move(board, index, value)
